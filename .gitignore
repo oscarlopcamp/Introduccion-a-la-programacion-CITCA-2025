@@ -1,0 +1,9 @@
+# Ignorar archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos de macOS
+.DS_Store
+
+# Ignorar otros temporales
+__pycache__/
+*.log
